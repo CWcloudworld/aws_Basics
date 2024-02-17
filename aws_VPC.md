@@ -24,7 +24,7 @@
    3. VPC ID - Select our vpc
    4. Give public subnet name
    5. Availibility Zone preference (any) - ( **NOTE Select a different zone from public subnet** )
-   6. IPV4 Subnet CIDR block - 10.0.0.0/24
+   6. IPV4 Subnet CIDR block - 10.0.1.0/24
 
   
 6. Create Internet Gateway (IGW) -( **Required to connect subnet with outside world** )
