@@ -100,7 +100,6 @@
 
 ### Try to connect to both your instance and try to do 
 
-
 ```
 sudo apt update
 ```
